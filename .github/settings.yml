@@ -72,11 +72,11 @@ labels:
     description: "Spam"
 
 # Milestones: define milestones for Issues and Pull Requests
-milestones:
-  - title: milestone-title
-    description: milestone-description
-    # The state of the milestone. Either `open` or `closed`
-    state: open
+# milestones:
+#   - title: milestone-title
+#     description: milestone-description
+#     # The state of the milestone. Either `open` or `closed`
+#     state: open
 
 # Collaborators: give specific users access to this repository.
 collaborators:
