@@ -57,11 +57,11 @@ labels:
     description: "New feature"
   - name: "feature request :sparkles:"
     color: 8bf9f2
-    description: "New feature"
+    description: "Feature request"
   - name: "wontfix"
     color: ffffff
     description: "This will not be worked on"
-  - name: "help Wanted"
+  - name: "help wanted"
     color: 008672
     description: "Extra attention is needed"
   - name: "invalid"
