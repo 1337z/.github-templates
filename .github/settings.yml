@@ -69,7 +69,7 @@ labels:
     description: "This doesn't seem right"
   - name: "spam"
     color: 000000
-    description: "Spam"
+    description: "Spam - this issue or pull request can be removed"
 
 # Milestones: define milestones for Issues and Pull Requests
 # milestones:
