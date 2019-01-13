@@ -46,14 +46,30 @@ repository:
 
 # Labels: define labels for Issues and Pull Requests
 labels:
-  - name: bug
-    color: CC0000
-    description: Hello World
-  - name: feature
-    color: 336699
-  - name: first-timers-only
+  - name: "bug"
+    color: d73a4a
+    description: "Something isn't working as expected"
+  - name: "duplicate"
+    color: cfd3d7
+    description: "This issue or pull request already exists"
+  - name: "enhancement :zap:"
+    color: a2eeef
+    description: "New feature"
+  - name: "feature request :sparkles:"
+    color: 8bf9f2
+    description: "New feature"
+  - name: "wontfix"
     color: ffffff
-    oldname: help Wanted
+    description: "This will not be worked on"
+  - name: "help Wanted"
+    color: 008672
+    description: "Extra attention is needed"
+  - name: "invalid"
+    color: e4e669
+    description: "This doesn't seem right"
+  - name: "spam"
+    color: 000000
+    description: "Spam"
 
 # Milestones: define milestones for Issues and Pull Requests
 milestones:
