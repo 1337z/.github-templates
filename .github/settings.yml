@@ -69,7 +69,7 @@ labels:
     description: "This doesn't seem right"
   - name: "spam"
     color: "000000"
-    description: "Spam - this issue or pull request can be removed"
+    description: "This issue or pull request can be removed"
 
 # Collaborators: give specific users access to this repository.
 collaborators:
