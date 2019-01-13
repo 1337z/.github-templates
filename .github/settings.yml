@@ -71,13 +71,6 @@ labels:
     color: 000000
     description: "Spam - this issue or pull request can be removed"
 
-# Milestones: define milestones for Issues and Pull Requests
-# milestones:
-#   - title: milestone-title
-#     description: milestone-description
-#     # The state of the milestone. Either `open` or `closed`
-#     state: open
-
 # Collaborators: give specific users access to this repository.
 collaborators:
   - username: MarvinJWendt
